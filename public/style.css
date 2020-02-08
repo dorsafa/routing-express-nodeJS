@@ -1,0 +1,8 @@
+ul{
+    display: flex;
+    list-style-type: none;
+    background-color: brown;
+}
+h1{
+    color: red;
+}
